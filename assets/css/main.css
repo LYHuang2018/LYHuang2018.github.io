@@ -2058,6 +2058,7 @@
 
 			.main > .content h3 {
 				font-size: 1.5em;
+				color: #000;
 			}
 
 			.main > .content.dark {
@@ -2065,7 +2066,9 @@
 			}
 
 			.main > .content.style1 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #b39c68, #a56365, #412e4c);
+				/* background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #b39c68, #a56365, #412e4c); */
+				background: url("../../images/puzzle-3223941_1920.jpg");
+				color: #000;
 			}
 
 			.main > .content.style2 {
