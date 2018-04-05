@@ -2075,6 +2075,8 @@
 
 			.main > .content.style2 {
 				background: url("../../images/water-1761027_1920.jpg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, url("images/overlay.png"), linear-gradient(45deg, #384955, #655361, #85505f);
+				color: #fcfcfc;
+				text-shadow: 3px 1px 2px rgba(150, 150, 150, 1);
 			}
 
 			.main > .content.style3 {
